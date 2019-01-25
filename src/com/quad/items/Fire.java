@@ -32,7 +32,7 @@ public class Fire extends Item{
 			
 			sparkles = new ArrayList<Sparkle>();
 			
-			moveSpeed = 0.4;
+			moveSpeed = 0.5;
 			fallSpeed = 0.15;
 			maxFallSpeed = 4.0;
 			jumpStart = -5;
